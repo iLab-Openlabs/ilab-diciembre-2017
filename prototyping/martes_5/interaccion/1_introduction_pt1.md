@@ -1,6 +1,6 @@
 ### Introducción del plan de trabajo para el segundo día
 
-* Juan Presentación de las actividades del día. Cierre del día del día y los temas anteriores
+* Presentación de las actividades del día. Cierre del día del día y los temas anteriores
 
 * “Imaginemos un proyecto basados en lo que podría ser” (Juan)
 
