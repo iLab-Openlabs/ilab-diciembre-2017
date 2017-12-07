@@ -1,4 +1,4 @@
-### Trabajo en equipo y puesta en común
+### Trabajo en equipo y puesta en común: Caixa Mágica
 
 * Impacto= que la caja sea deseable y colectivos la usen para hacer reuniones más efectivas y participativas
 
